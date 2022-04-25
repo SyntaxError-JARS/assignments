@@ -1,10 +1,10 @@
 # Project 0
 
-For Project 0, you will be building a console-based application that will be presented on Wednesday, February 9th, 2022. For this application you may choose one of the following concepts:
+For Project 0, you will be building an API that will be presented on Wednesday, May 18th, 2022 in it's final form. For this application you may choose one of the following concepts:
 
 -   a banking application
 -   course registration application
--   any other trainer-approved idea that is similar in functionality to the above project ideas (explicit trainer approval required for this)
+-   any other **trainer-approved** idea that is similar in functionality to the above project ideas (explicit trainer approval required for this)
 
 ## Banking Application Details
 
@@ -55,9 +55,9 @@ As a student, I can:
 You are welcome to come up with your own project concept if you would like. The basic requirements of the application are as follows:
 
 -   Persist data into a relational database
--   Allow users to interface (via the console) with an application that allows for them to create, read, update, and delete that persisted data
 -   Complies with the minimum features (specified below)
 -   Minimum number of user stories: 7
+-   All endpoints are functional with
 
 Send your project concept descriptions to your trainer via Slack and await concept approval. Additionally, please specify the following when writing up your pitch:
 
@@ -95,7 +95,16 @@ Regardless of the project concept you choose, you will be required to adhere to 
 -   Keep this repository up to date with frequent commits and pushes (follow best practices!)
 -   It is recommended (though not required) that you implement some kind of branching strategy when implementing new features into your application
 
-## Presentation
+## Presentation & Deadlines
+
+### P-1 (Thursday May 5th 2022)
+
+-   [ ] Data persisted to the database
+-   [ ] Able to show functional code for all three layers of your API
+-   [ ] At least two endpoints available to hit through POSTMAN (1 GET & 1 POST)
+-   [ ] Code posted to github organization in the appropriate repository, with commit history.
+
+### P0 (Wednesday May 18th 2022)
 
 -   [ ] finalized version of application must be pushed to personal repository within this organization by the presentation date
 -   [ ] 5 minute live demonstration of the implemented features
