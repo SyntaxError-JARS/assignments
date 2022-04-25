@@ -79,6 +79,7 @@ All project concepts must display the following domain-independent features/requ
 -   [ ] Referential integrity (e.g. if a class is removed from the catalog, no students should be registered for it)
 -   [ ] Logging messages and exceptions to a file using a custom logger
 -   [ ] Generation of basic design documents (e.g. relational diagram, class diagram, flows, etc.)
+-   [ ] A basic single html/css/js page for logging in.
 
 ## Tech Stack
 
@@ -88,6 +89,8 @@ Regardless of the project concept you choose, you will be required to adhere to 
 -   [ ] Apache Maven
 -   [ ] PostgreSQL (hosted on Azure PostgreSQL Server)
 -   [ ] Git SCM (hosted on GitHub)
+-   [ ] HTML/CSS/JS
+-   [ ] Servlets
 
 ## Repo Instructions
 
