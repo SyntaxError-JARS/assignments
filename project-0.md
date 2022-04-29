@@ -100,12 +100,13 @@ Regardless of the project concept you choose, you will be required to adhere to 
 
 ## Presentation & Deadlines
 
-### P-1 (Thursday May 5th 2022)
+### Checkpoint (Thursday May 5th 2022)
 
 -   [ ] Data persisted to the database
 -   [ ] Able to explain the functional code for all three layers of your API
--   [ ] At least two endpoints available to hit through POSTMAN (1 GET & 1 POST)
 -   [ ] Code posted to github organization in the appropriate repository, with commit history.
+-   Potentially:
+-   [ ] At least two endpoints available to hit through POSTMAN (1 GET & 1 POST)
 
 ### P0 (Wednesday May 18th 2022)
 
