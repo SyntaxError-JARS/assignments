@@ -1,4 +1,4 @@
-# Linux/Unix, SDLC/Agile, Git
+# SQL & Java
 
 # REMINDER: Each prompt is answerable in 5min. You'll have 25 minutes to respond to each of these questions. You must record your screen as well with this prompt on the foreground.
 
