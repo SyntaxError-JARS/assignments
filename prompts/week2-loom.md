@@ -16,7 +16,7 @@
 
 # Prompt 2
 
-1. What is Java?
+1. What is Java? Why?
 
 2. What is the main signature? Does it ever change?
 
