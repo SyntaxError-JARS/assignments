@@ -28,7 +28,7 @@ As a user I can:
 -   [ ] share a joint account with another user
 -   [ ] transfer money between accounts
 
-## Course Registration Application Details
+## Course Registration Ap fairly plication Details
 
 ### User Stories
 
@@ -109,4 +109,4 @@ Regardless of the project concept you choose, you will be required to adhere to 
 ### P0 (Wednesday May 18th 2022)
 
 -   [ ] finalized version of application must be pushed to personal repository within this organization by the presentation date
--   [ ] 5-10 minute live demonstration of the implemented features
+-   [ ] NO LONGER THAN 5min live demonstration of the implemented features
