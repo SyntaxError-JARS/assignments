@@ -28,7 +28,7 @@ As a user I can:
 -   [ ] share a joint account with another user
 -   [ ] transfer money between accounts
 
-## Course Registration Application Details
+## Course Registration Ap fairly plication Details
 
 ### User Stories
 
@@ -57,7 +57,7 @@ You are welcome to come up with your own project concept if you would like. The 
 -   Persist data into a relational database
 -   Complies with the minimum features (specified below)
 -   Minimum number of user stories: 7
--   All endpoints are functional with
+-   All endpoints are functional with Postman
 
 Send your project concept descriptions to your trainer via Slack and await concept approval. Additionally, please specify the following when writing up your pitch:
 
@@ -69,17 +69,15 @@ Send your project concept descriptions to your trainer via Slack and await conce
 
 All project concepts must display the following domain-independent features/requirements:
 
--   [ ] Use of custom data structures (do not use java.util Collection types!)
 -   [ ] Basic validation of user input (e.g. no registration for classes outside of registration window, no negative deposits/withdrawals, no overdrafting, etc.)
 -   [ ] Unit tests for all business-logic classes
 -   [ ] All exceptions are properly caught and handled
 -   [ ] Proper use of OOP principles
--   [ ] Documentation (all classes and methods have basic documentation)
 -   [ ] Database is 3rd Normal Form Compliant
 -   [ ] Referential integrity (e.g. if a class is removed from the catalog, no students should be registered for it)
 -   [ ] Logging messages and exceptions to a file using a custom logger
 -   [ ] Generation of basic design documents (e.g. relational diagram, class diagram, flows, etc.)
--   [ ] A basic single html/css/js page for logging in.
+-   [ ] A basic single html/css Welcome Page, giving the Name of your application and brief description of what and how it works.
 
 ## Tech Stack
 
@@ -90,7 +88,7 @@ Regardless of the project concept you choose, you will be required to adhere to 
 -   [ ] PostgreSQL (hosted on Azure PostgreSQL Server)
 -   [ ] Git SCM (hosted on GitHub)
 -   [ ] HTML/CSS/JS
--   [ ] Servlets
+-   [ ] Apache Tomcat 9.0.62 Servlets
 
 ## Repo Instructions
 
@@ -111,4 +109,4 @@ Regardless of the project concept you choose, you will be required to adhere to 
 ### P0 (Wednesday May 18th 2022)
 
 -   [ ] finalized version of application must be pushed to personal repository within this organization by the presentation date
--   [ ] 5 minute live demonstration of the implemented features
+-   [ ] NO LONGER THAN 5min live demonstration of the implemented features
