@@ -45,6 +45,8 @@ In this project, you're presented with the challenge to learn and implement the 
 
 -   [Tutorialspoint Hibernate](https://www.tutorialspoint.com/hibernate/index.htm)
 
+-   [Hibernate Session Factory](https://www.java2novice.com/hibernate/session-factory/)
+
 ## Optional Challenges:
 
 -   [ ] Utilization of JWT for user authentication
