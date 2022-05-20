@@ -6,7 +6,7 @@ My Restaurant app was developed for a small restaurant that is looking to help s
 
 ## ERD
 
-![](img/p1_erd.png)
+![](img/p1ERD.png)
 
 # User Stories
 
