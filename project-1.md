@@ -78,7 +78,6 @@ In this project, you're presented with the challenge to learn and implement the 
 -   [ ] Daily Commits to Github
 -   [ ] Branching strategies implemented
 -   [ ] 80% line coverage of all service layer classes
--   [ ] Generated Logging for ALL threshold level in your program
 -   [ ] Mocking for unit testing
 -   [ ] **_RECOMMENDATION!_** Use Trello or some kanban board to keep track of target goals. You can include your trainer on these.
 
