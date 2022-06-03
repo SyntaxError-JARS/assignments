@@ -91,4 +91,4 @@ In this project, you're presented with the challenge to learn and implement the 
 ## Presentation
 
 -   Finalized version of the web application must be pushed to personal repository within this organization by the presentation date (June 3rd, 2022)
--   10-15 minute live demonstration of the web application; demonstration will be performed using your ReactJS FrontEnd to query your API's endpoints
+-   10 minute live demonstration of the web application; demonstration will be performed using your ReactJS FrontEnd to query your API's endpoints
