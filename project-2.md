@@ -6,7 +6,7 @@ It's time to build another full-stack application but instead leveraging Spring 
 
 Application must leverage the full stack:
 
--   Azure SQL/PostGreSQL for persistence
+-   Azure SQL for persistence
 -   API built with Java 8 and Spring 5
 -   UI built with React
 
