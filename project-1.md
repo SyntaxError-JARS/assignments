@@ -78,7 +78,6 @@ In this project, you're presented with the challenge to learn and implement the 
 -   [ ] Daily Commits to Github
 -   [ ] Branching strategies implemented
 -   [ ] 80% line coverage of all service layer classes
--   [ ] Generated Logging for ALL threshold level in your program
 -   [ ] Mocking for unit testing
 -   [ ] **_RECOMMENDATION!_** Use Trello or some kanban board to keep track of target goals. You can include your trainer on these.
 
@@ -91,4 +90,4 @@ In this project, you're presented with the challenge to learn and implement the 
 ## Presentation
 
 -   Finalized version of the web application must be pushed to personal repository within this organization by the presentation date (June 3rd, 2022)
--   10-15 minute live demonstration of the web application; demonstration will be performed using your ReactJS FrontEnd to query your API's endpoints
+-   10 minute live demonstration of the web application; demonstration will be performed using your ReactJS FrontEnd to query your API's endpoints
