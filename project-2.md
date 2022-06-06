@@ -30,6 +30,11 @@ Application must leverage the full stack:
 -   Java API will be adequately documented (Java Docs and web endpoint documentation [Swagger/OpenAPI])
 -   At least one external API must be leveraged
 
+# Required Challenges:
+
+-   Frontend: Needs to leverage either BootStrap-React or MaterialUI
+-   Backend: Deploy the spring boot application to CI/CD pipeline
+
 # Suggested bonus goals:
 
 -   Secure your Java API using JWTs
