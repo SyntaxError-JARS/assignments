@@ -24,10 +24,6 @@
 
 3. What is Docker?
 
-4. Explain
-
-5. Where and how are we deploying our API to Azure?
-
 # Prompt 3
 
 ```java
