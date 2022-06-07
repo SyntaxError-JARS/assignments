@@ -33,8 +33,13 @@ Application must leverage the full stack:
 # Required Challenges:
 
 -   Frontend: Needs to leverage either BootStrap-React or MaterialUI
+      - [React Bootstrap Documentation](https://react-bootstrap.github.io/)
+      - [Material UI Documentation](https://mui.com/material-ui/getting-started/overview/)
+       - [MaterialUI also appears to need to run the following with React18 (have no tested yet, can always drop the React to 17 to in your package.json as well)](https://namespaceit.com/blog/mui-installation-doesnt-work-with-react-18)
 -   Backend: Deploy the spring boot application to CI/CD pipeline
-
+  - Resources: 
+     - [Deploy a sping boot application to azure](https://dev.to/azure/the-easy-way-to-deploy-a-spring-boot-application-to-production-on-azure-2joi)
+     - [App Service Java Docs](https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?pivots=platform-linux&tabs=javase)
 # Suggested bonus goals:
 
 -   Secure your Java API using JWTs
