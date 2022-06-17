@@ -58,4 +58,4 @@ In order to make your repositories accessible to your Azure Accounts via Azure D
 
 Presentations will occur on the morning of Friday, June 17th, 2022. All team members must have a speaking role in the presentation of the application, and a **PowerPoint slideshow** must accompany your frontend demo. Aim for 15min.
 
-Note this project will be presented to the anchor client (in a slightly shorter context) on Thursday, June 23rd, 2022 (Tentative)
+Note this project will be presented to the anchor client (in a slightly shorter context) on Wednesday, June 22nd, 2022 @ 2:30 PM EST
